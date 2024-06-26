@@ -24,6 +24,7 @@ function showData(data) {
     let h2 = document.createElement("h2");
     let link = document.createElement("a");
     let img = document.createElement("img");
+
     h2.innerText = element.title;
     link.href = element.url;
     link.target = "_blank";

@@ -4,6 +4,9 @@ body {
   padding: 0;
   background-color: #f4f4f9;
 }
+h1 {
+  text-align: center;
+}
 
 #ulList {
   padding: 0;
